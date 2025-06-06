@@ -1,1 +1,1 @@
-# Unsupervised ML: Dimensionality Reduction and Clustering
+# Unsupervised Machine Learning: Dimensionality Reduction and Clustering
